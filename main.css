@@ -232,10 +232,6 @@ img{
 	font-size: 20px;
 	font-weight: 600;
 }
-.work{
-	display: flex;
-	flex-wrap: wrap;
-}
 .work .workcontent{
 	display: flex;
 	justify-content: center;
